@@ -5,8 +5,7 @@ import places
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 
-token = "d978fd60f2c4cddad148ad0bac1f664e42c8eff2e7469c5bd249cabacfad63a70451148683ec9ac82f626"
-# token = "144b69655e74010ec63f440d6aad0caec0b5385007e8e986b11487d4dffdb7690278f2c93ba9c23aef3f8"
+token = #тут должен быть токен, но его не будет
 
 PLACES_MESSAGE = "Здесь ты можешь посмотреть список достопримечательностей города Жуковский и узнать больше о них, для этого напиши номер интересующего тебя объекта"
 WAYS_MESSAGE = "Пока что мы составили только 2 туристических маршрута, в будущем их будет больше :) \n"
